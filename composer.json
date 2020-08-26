@@ -1,6 +1,6 @@
 {
     "name": "slydeath/yandex-php-library",
-    "description": "Official Yandex PHP library",
+    "description": "Fork nixsolutions Yandex PHP library",
     "keywords":["yandex","sdk"],
     "type":"library",
     "license": "MIT",
