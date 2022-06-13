@@ -1,5 +1,5 @@
 {
-    "name": "slydeath/yandex-php-library",
+    "name": "tyurind/yandex-php-library",
     "description": "Fork nixsolutions Yandex PHP library",
     "keywords":["yandex","sdk"],
     "type":"library",
